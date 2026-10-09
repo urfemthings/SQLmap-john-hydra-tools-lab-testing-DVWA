@@ -8,7 +8,10 @@ ez LOLL
 
 all need 
 tools 
+
 John the ripper
+
 SQLmap
+
 hydra
 
